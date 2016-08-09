@@ -1,5 +1,5 @@
 # encoding: utf-8
-# copyright: 2015, DEMO Team Verint
+# copyright: 2015, awim / mtaqwim
 # license: All rights reserved
 
 title 'Confirm the user that permitted to select a table'
